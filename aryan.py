@@ -27,4 +27,4 @@ async def thankyou(ctx, user1: discord.Member):
 #    await ctx.send(f"{UnwantedProtists.mention}")
 
 
-client.run('OTM4NjQzNjQ4MzkwNzcwNzA4.YftSBA.-v-HHs0F_7ddT5JbhczmrSZ1Rgk')
+client.run('[discord_token]')
